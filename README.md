@@ -1,3 +1,7 @@
+# This module has been migrate to [Celerium.FanartTV](https://github.com/Celerium/Celerium.FanartTV)
+
+
+
 # FanartTv API PowerShell Wrapper
 
 This PowerShell module acts as a wrapper for the [FanartTv](https://fanart.tv/) API.
